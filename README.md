@@ -4,7 +4,7 @@
 - 💞️ I would collaborate with you if I wanted to ...
 - 📫 I would be available if I felt like it ... 
 
-*... but you may [send a mail](mailto:ichhabkeinbock@phaantm.de) if you really need to ...*
+*... but you may [send a mail](mailto:ichhabkeinbock@byom.de) if you really need to ...*
 
 <!---
 ichhabkeinbock/ichhabkeinbock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
